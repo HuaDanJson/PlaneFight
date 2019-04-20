@@ -20,6 +20,7 @@ import android.view.SurfaceView;
 
 import com.liuxuejian.planefight.R;
 import com.liuxuejian.planefight.activity.GameOverActivity;
+import com.liuxuejian.planefight.activity.NewGameActivity;
 import com.liuxuejian.planefight.entity.Boss;
 import com.liuxuejian.planefight.entity.Bullet;
 import com.liuxuejian.planefight.entity.Duang;
@@ -55,7 +56,7 @@ public class Abvanceview5 extends SurfaceView implements SurfaceHolder.Callback 
     private boolean warning = false;// 警告Boss将出现
     private boolean flagboss = true;// Boss出现
     private int bosslife = 10;
-    private int MODE = 1;// 模式标识码
+    private int MODE = 5;// 模式标识码
     // 子弹
     private Bullet bullet;
     // 玩家子弹集合
@@ -76,6 +77,8 @@ public class Abvanceview5 extends SurfaceView implements SurfaceHolder.Callback 
     private Boss b1;
     private Handler handler1;
     private int intboss = 0;
+
+    private NewGameActivity mNewGameActivity;
 
     public Abvanceview5(Context context) {
         super(context);
@@ -170,9 +173,10 @@ public class Abvanceview5 extends SurfaceView implements SurfaceHolder.Callback 
         timer.schedule(task, 200, 1000);
     }
 
-    public void setVoiceSettingData(boolean musiccheck, boolean shockcheck) {
+    public void setVoiceSettingData(boolean musiccheck, boolean shockcheck,NewGameActivity newGameActivity) {
         this.musiccheck = musiccheck;
         this.shockcheck = shockcheck;
+        this.mNewGameActivity = newGameActivity;
     }
 
     private Thread mThread = new Thread(new Runnable() {
@@ -297,6 +301,7 @@ public class Abvanceview5 extends SurfaceView implements SurfaceHolder.Callback 
                             Intent intent = new Intent(getContext(), GameOverActivity.class);
                             intent.putExtra("score", myscore);
                             getContext().startActivity(intent);
+                            mNewGameActivity.finish();
                         }
                     }
                 }
@@ -351,7 +356,7 @@ public class Abvanceview5 extends SurfaceView implements SurfaceHolder.Callback 
                         & b1.y > (y - 40)) {
                     lifecount--;
                     if (shockcheck) {
-                        vibrator.vibrate(pattern, 1);
+//                        vibrator.vibrate(pattern, 1);
                     }
                     islife();
                 }
@@ -372,7 +377,7 @@ public class Abvanceview5 extends SurfaceView implements SurfaceHolder.Callback 
                     bossbullets.remove(bull);
                     lifecount--;
                     if (shockcheck) {
-                        vibrator.vibrate(pattern, 1);
+//                        vibrator.vibrate(pattern, 1);
                     }
                     islife();
                 }
@@ -391,7 +396,7 @@ public class Abvanceview5 extends SurfaceView implements SurfaceHolder.Callback 
                     ebullets.remove(bull);
                     lifecount--;
                     if (shockcheck) {
-                        vibrator.vibrate(pattern, 1);
+//                        vibrator.vibrate(pattern, 1);
                     }
                     islife();
                 }
@@ -413,6 +418,7 @@ public class Abvanceview5 extends SurfaceView implements SurfaceHolder.Callback 
             intent.putExtra("score", myscore);
             intent.putExtra("mode", MODE);
             getContext().startActivity(intent);
+            mNewGameActivity.finish();
         }
     }
 

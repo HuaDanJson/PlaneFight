@@ -9,7 +9,6 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
-    <uses-permission android:name="android.permission.VIBRATE" />
 
     <application
         android:name="com.liuxuejian.planefight.base.CCApplication"
@@ -20,6 +19,7 @@
         <activity
             android:name="com.liuxuejian.planefight.activity.MainActivity"
             android:label="飞机大战"
+            android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -30,31 +30,36 @@
         <activity
             android:name="com.liuxuejian.planefight.activity.NewGameActivity"
             android:label="@string/title_activity_new_game"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+            android:screenOrientation="portrait" >
         </activity>
         <activity
             android:name="com.liuxuejian.planefight.activity.GameOverActivity"
             android:label="@string/title_activity_game_over"
+            android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
         </activity>
         <activity
             android:name="com.liuxuejian.planefight.activity.ModeSelectActivity"
             android:label="@string/title_activity_mde_select"
+            android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
         </activity>
         <activity
             android:name="com.liuxuejian.planefight.activity.RankingListActivity"
             android:label="@string/title_activity_ranking_list"
+            android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
         </activity>
         <activity
             android:name="com.liuxuejian.planefight.activity.GameSetActivity"
             android:label="@string/title_activity_game_set"
+            android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
         </activity>
         <activity
             android:name="com.liuxuejian.planefight.activity.SelectGameActivity"
             android:label="@string/title_activity_game_set"
+            android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
         <activity
             android:name="com.blankj.utilcode.util.PermissionUtils$PermissionActivity"

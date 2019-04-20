@@ -84,6 +84,10 @@
         "source": "/Users/jason/.android/build-cache/58d81662819269f5adc3dd03e529506bc1fabf30/output/res/layout/notification_template_media_custom.xml"
     },
     {
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/layout/dialog_log_out.xml",
+        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/layout/dialog_log_out.xml"
+    },
+    {
         "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
         "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/layout/select_dialog_multichoice_material.xml"
     },

@@ -7,19 +7,55 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endLine": 4,
-                    "endColumn": 12,
-                    "endOffset": 187
+                    "endColumn": 65,
+                    "endOffset": 116
                 },
                 "from": {
-                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/styles.xml",
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 73,
                         "startColumn": 4,
-                        "startOffset": 182,
-                        "endLine": 8,
-                        "endColumn": 12,
-                        "endOffset": 316
+                        "startOffset": 3087,
+                        "endColumn": 65,
+                        "endOffset": 3148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 121,
+                    "endColumn": 49,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 3599,
+                        "endColumn": 49,
+                        "endOffset": 3644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endColumn": 47,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 5278,
+                        "endColumn": 47,
+                        "endOffset": 5321
                     }
                 }
             },
@@ -27,20 +63,113 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 192,
-                    "endLine": 10,
-                    "endColumn": 12,
-                    "endOffset": 606
+                    "startOffset": 219,
+                    "endColumn": 39,
+                    "endOffset": 254
                 },
                 "from": {
-                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml",
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
                     "position": {
-                        "startLine": 2,
+                        "startLine": 41,
                         "startColumn": 4,
-                        "startOffset": 55,
-                        "endLine": 7,
-                        "endColumn": 12,
-                        "endOffset": 469
+                        "startOffset": 1680,
+                        "endColumn": 39,
+                        "endOffset": 1715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 43,
+                    "endOffset": 298
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1720,
+                        "endColumn": 43,
+                        "endOffset": 1759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 303,
+                    "endColumn": 43,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1764,
+                        "endColumn": 43,
+                        "endOffset": 1803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endColumn": 43,
+                    "endOffset": 386
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1808,
+                        "endColumn": 43,
+                        "endOffset": 1847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 391,
+                    "endColumn": 43,
+                    "endOffset": 430
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1852,
+                        "endColumn": 43,
+                        "endOffset": 1891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 435,
+                    "endColumn": 43,
+                    "endOffset": 474
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1896,
+                        "endColumn": 43,
+                        "endOffset": 1935
                     }
                 }
             },
@@ -48,20 +177,113 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 611,
-                    "endLine": 16,
-                    "endColumn": 12,
-                    "endOffset": 1031
+                    "startOffset": 479,
+                    "endColumn": 43,
+                    "endOffset": 518
                 },
                 "from": {
-                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml",
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 47,
                         "startColumn": 4,
-                        "startOffset": 474,
-                        "endLine": 13,
-                        "endColumn": 12,
-                        "endOffset": 894
+                        "startOffset": 1940,
+                        "endColumn": 43,
+                        "endOffset": 1979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 523,
+                    "endColumn": 43,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1984,
+                        "endColumn": 43,
+                        "endOffset": 2023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 567,
+                    "endColumn": 43,
+                    "endOffset": 606
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2028,
+                        "endColumn": 43,
+                        "endOffset": 2067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 611,
+                    "endColumn": 43,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2072,
+                        "endColumn": 43,
+                        "endOffset": 2111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endColumn": 43,
+                    "endOffset": 694
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2116,
+                        "endColumn": 43,
+                        "endOffset": 2155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 699,
+                    "endColumn": 43,
+                    "endOffset": 738
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2160,
+                        "endColumn": 43,
+                        "endOffset": 2199
                     }
                 }
             },
@@ -69,20 +291,113 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1036,
-                    "endLine": 22,
-                    "endColumn": 12,
-                    "endOffset": 1459
+                    "startOffset": 743,
+                    "endColumn": 43,
+                    "endOffset": 782
                 },
                 "from": {
-                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml",
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 53,
                         "startColumn": 4,
-                        "startOffset": 899,
-                        "endLine": 19,
-                        "endColumn": 12,
-                        "endOffset": 1322
+                        "startOffset": 2204,
+                        "endColumn": 43,
+                        "endOffset": 2243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 787,
+                    "endColumn": 43,
+                    "endOffset": 826
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2248,
+                        "endColumn": 43,
+                        "endOffset": 2287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 831,
+                    "endColumn": 43,
+                    "endOffset": 870
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2292,
+                        "endColumn": 43,
+                        "endOffset": 2331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endColumn": 43,
+                    "endOffset": 914
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2336,
+                        "endColumn": 43,
+                        "endOffset": 2375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 919,
+                    "endColumn": 43,
+                    "endOffset": 958
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2380,
+                        "endColumn": 43,
+                        "endOffset": 2419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 963,
+                    "endColumn": 43,
+                    "endOffset": 1002
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2424,
+                        "endColumn": 43,
+                        "endOffset": 2463
                     }
                 }
             },
@@ -90,20 +405,113 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1464,
-                    "endLine": 28,
-                    "endColumn": 12,
-                    "endOffset": 1885
+                    "startOffset": 1007,
+                    "endColumn": 43,
+                    "endOffset": 1046
                 },
                 "from": {
-                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml",
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 59,
                         "startColumn": 4,
-                        "startOffset": 1327,
-                        "endLine": 25,
-                        "endColumn": 12,
-                        "endOffset": 1748
+                        "startOffset": 2468,
+                        "endColumn": 43,
+                        "endOffset": 2507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1051,
+                    "endColumn": 43,
+                    "endOffset": 1090
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 2512,
+                        "endColumn": 43,
+                        "endOffset": 2551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1095,
+                    "endColumn": 43,
+                    "endOffset": 1134
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2556,
+                        "endColumn": 43,
+                        "endOffset": 2595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1139,
+                    "endColumn": 43,
+                    "endOffset": 1178
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 2600,
+                        "endColumn": 43,
+                        "endOffset": 2639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1183,
+                    "endColumn": 55,
+                    "endOffset": 1234
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 2700,
+                        "endColumn": 55,
+                        "endOffset": 2751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1239,
+                    "endColumn": 50,
+                    "endOffset": 1285
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 910,
+                        "endColumn": 50,
+                        "endOffset": 956
                     }
                 }
             },
@@ -111,20 +519,113 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 1890,
-                    "endLine": 34,
-                    "endColumn": 12,
-                    "endOffset": 2312
+                    "startOffset": 1290,
+                    "endColumn": 38,
+                    "endOffset": 1324
                 },
                 "from": {
-                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml",
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
                     "position": {
-                        "startLine": 26,
+                        "startLine": 81,
                         "startColumn": 4,
-                        "startOffset": 1753,
-                        "endLine": 31,
-                        "endColumn": 12,
-                        "endOffset": 2175
+                        "startOffset": 3560,
+                        "endColumn": 38,
+                        "endOffset": 3594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1329,
+                    "endColumn": 42,
+                    "endOffset": 1367
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 2980,
+                        "endColumn": 42,
+                        "endOffset": 3018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1372,
+                    "endColumn": 41,
+                    "endOffset": 1409
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endColumn": 41,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1414,
+                    "endColumn": 47,
+                    "endOffset": 1457
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 47,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1462,
+                    "endColumn": 52,
+                    "endOffset": 1510
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 52,
+                        "endOffset": 296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1515,
+                    "endColumn": 45,
+                    "endOffset": 1556
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 45,
+                        "endOffset": 194
                     }
                 }
             },
@@ -132,20 +633,113 @@
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 2317,
-                    "endLine": 40,
-                    "endColumn": 12,
-                    "endOffset": 2737
+                    "startOffset": 1561,
+                    "endColumn": 46,
+                    "endOffset": 1603
                 },
                 "from": {
-                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml",
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
                     "position": {
-                        "startLine": 32,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 2180,
-                        "endLine": 37,
-                        "endColumn": 12,
-                        "endOffset": 2600
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1608,
+                    "endColumn": 50,
+                    "endOffset": 1654
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 50,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1659,
+                    "endColumn": 63,
+                    "endOffset": 1718
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 3023,
+                        "endColumn": 63,
+                        "endOffset": 3082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1723,
+                    "endColumn": 55,
+                    "endOffset": 1774
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 3871,
+                        "endColumn": 55,
+                        "endOffset": 3922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1779,
+                    "endColumn": 61,
+                    "endOffset": 1836
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 2756,
+                        "endColumn": 61,
+                        "endOffset": 2813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1841,
+                    "endColumn": 62,
+                    "endOffset": 1899
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 961,
+                        "endColumn": 62,
+                        "endOffset": 1019
                     }
                 }
             },
@@ -153,18 +747,18 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 2742,
-                    "endColumn": 88,
-                    "endOffset": 2826
+                    "startOffset": 1904,
+                    "endColumn": 66,
+                    "endOffset": 1966
                 },
                 "from": {
-                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml",
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
                     "position": {
-                        "startLine": 38,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 2605,
-                        "endColumn": 88,
-                        "endOffset": 2689
+                        "startOffset": 693,
+                        "endColumn": 66,
+                        "endOffset": 755
                     }
                 }
             },
@@ -172,20 +766,75 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 2831,
-                    "endLine": 45,
-                    "endColumn": 12,
-                    "endOffset": 3072
+                    "startOffset": 1971,
+                    "endColumn": 54,
+                    "endOffset": 2021
                 },
                 "from": {
-                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml",
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
                     "position": {
-                        "startLine": 39,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 2694,
-                        "endLine": 42,
-                        "endColumn": 12,
-                        "endOffset": 2935
+                        "startOffset": 343,
+                        "endColumn": 54,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2026,
+                    "endColumn": 54,
+                    "endOffset": 2076
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 2645,
+                        "endColumn": 54,
+                        "endOffset": 2695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2081,
+                    "endColumn": 61,
+                    "endOffset": 2138
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 4379,
+                        "endColumn": 61,
+                        "endOffset": 4436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2143,
+                    "endColumn": 48,
+                    "endOffset": 2187
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 5229,
+                        "endColumn": 48,
+                        "endOffset": 5273
                     }
                 }
             },
@@ -193,20 +842,75 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 3077,
-                    "endLine": 49,
-                    "endColumn": 12,
-                    "endOffset": 3321
+                    "startOffset": 2192,
+                    "endColumn": 54,
+                    "endOffset": 2242
                 },
                 "from": {
-                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml",
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
                     "position": {
-                        "startLine": 43,
+                        "startLine": 69,
                         "startColumn": 4,
-                        "startOffset": 2940,
-                        "endLine": 46,
-                        "endColumn": 12,
-                        "endOffset": 3184
+                        "startOffset": 2867,
+                        "endColumn": 54,
+                        "endOffset": 2917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2247,
+                    "endColumn": 57,
+                    "endOffset": 2300
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 2922,
+                        "endColumn": 57,
+                        "endOffset": 2975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2305,
+                    "endColumn": 62,
+                    "endOffset": 2363
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 4192,
+                        "endColumn": 62,
+                        "endOffset": 4250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2368,
+                    "endColumn": 72,
+                    "endOffset": 2436
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 5141,
+                        "endColumn": 72,
+                        "endOffset": 5209
                     }
                 }
             },
@@ -214,18 +918,18 @@
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 3326,
-                    "endColumn": 100,
-                    "endOffset": 3422
+                    "startOffset": 2441,
+                    "endColumn": 61,
+                    "endOffset": 2498
                 },
                 "from": {
-                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml",
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
                     "position": {
-                        "startLine": 47,
+                        "startLine": 106,
                         "startColumn": 4,
-                        "startOffset": 3189,
-                        "endColumn": 100,
-                        "endOffset": 3285
+                        "startOffset": 5079,
+                        "endColumn": 61,
+                        "endOffset": 5136
                     }
                 }
             },
@@ -233,20 +937,75 @@
                 "to": {
                     "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 3427,
-                    "endLine": 54,
-                    "endColumn": 12,
-                    "endOffset": 3674
+                    "startOffset": 2503,
+                    "endColumn": 63,
+                    "endOffset": 2562
                 },
                 "from": {
-                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml",
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
                     "position": {
-                        "startLine": 48,
+                        "startLine": 89,
                         "startColumn": 4,
-                        "startOffset": 3290,
-                        "endLine": 51,
-                        "endColumn": 12,
-                        "endOffset": 3537
+                        "startOffset": 3993,
+                        "endColumn": 63,
+                        "endOffset": 4052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2567,
+                    "endColumn": 65,
+                    "endOffset": 2628
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 3927,
+                        "endColumn": 65,
+                        "endOffset": 3988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2633,
+                    "endColumn": 67,
+                    "endOffset": 2696
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 4057,
+                        "endColumn": 67,
+                        "endOffset": 4120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2701,
+                    "endColumn": 57,
+                    "endOffset": 2754
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 3153,
+                        "endColumn": 57,
+                        "endOffset": 3206
                     }
                 }
             },
@@ -254,20 +1013,75 @@
                 "to": {
                     "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 3679,
-                    "endLine": 58,
-                    "endColumn": 12,
-                    "endOffset": 3929
+                    "startOffset": 2759,
+                    "endColumn": 66,
+                    "endOffset": 2821
                 },
                 "from": {
-                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml",
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
                     "position": {
-                        "startLine": 52,
+                        "startLine": 75,
                         "startColumn": 4,
-                        "startOffset": 3542,
-                        "endLine": 55,
-                        "endColumn": 12,
-                        "endOffset": 3792
+                        "startOffset": 3211,
+                        "endColumn": 66,
+                        "endOffset": 3273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2826,
+                    "endColumn": 66,
+                    "endOffset": 2888
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1024,
+                        "endColumn": 66,
+                        "endOffset": 1086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2893,
+                    "endColumn": 49,
+                    "endOffset": 2938
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endColumn": 49,
+                        "endOffset": 904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2943,
+                    "endColumn": 45,
+                    "endOffset": 2984
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 760,
+                        "endColumn": 45,
+                        "endOffset": 801
                     }
                 }
             },
@@ -275,18 +1089,18 @@
                 "to": {
                     "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 3934,
-                    "endColumn": 102,
-                    "endOffset": 4032
+                    "startOffset": 2989,
+                    "endColumn": 52,
+                    "endOffset": 3037
                 },
                 "from": {
-                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml",
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
                     "position": {
-                        "startLine": 56,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 3797,
-                        "endColumn": 102,
-                        "endOffset": 3895
+                        "startOffset": 806,
+                        "endColumn": 52,
+                        "endOffset": 854
                     }
                 }
             },
@@ -294,20 +1108,75 @@
                 "to": {
                     "startLine": 60,
                     "startColumn": 4,
-                    "startOffset": 4037,
-                    "endLine": 63,
-                    "endColumn": 12,
-                    "endOffset": 4285
+                    "startOffset": 3042,
+                    "endColumn": 66,
+                    "endOffset": 3104
                 },
                 "from": {
-                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml",
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
                     "position": {
-                        "startLine": 57,
+                        "startLine": 91,
                         "startColumn": 4,
-                        "startOffset": 3900,
-                        "endLine": 60,
-                        "endColumn": 12,
-                        "endOffset": 4148
+                        "startOffset": 4125,
+                        "endColumn": 66,
+                        "endOffset": 4187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3109,
+                    "endColumn": 51,
+                    "endOffset": 3156
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 4327,
+                        "endColumn": 51,
+                        "endOffset": 4374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3161,
+                    "endColumn": 59,
+                    "endOffset": 3216
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 4441,
+                        "endColumn": 59,
+                        "endOffset": 4496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3221,
+                    "endColumn": 65,
+                    "endOffset": 3282
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 4501,
+                        "endColumn": 65,
+                        "endOffset": 4562
                     }
                 }
             },
@@ -315,20 +1184,94 @@
                 "to": {
                     "startLine": 64,
                     "startColumn": 4,
-                    "startOffset": 4290,
-                    "endLine": 68,
-                    "endColumn": 12,
-                    "endOffset": 4693
+                    "startOffset": 3287,
+                    "endColumn": 55,
+                    "endOffset": 3338
                 },
                 "from": {
-                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml",
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
                     "position": {
-                        "startLine": 61,
+                        "startLine": 117,
                         "startColumn": 4,
-                        "startOffset": 4153,
-                        "endLine": 65,
-                        "endColumn": 12,
-                        "endOffset": 4556
+                        "startOffset": 5519,
+                        "endColumn": 55,
+                        "endOffset": 5570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3343,
+                    "endColumn": 57,
+                    "endOffset": 3396
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 5405,
+                        "endColumn": 57,
+                        "endOffset": 5458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3401,
+                    "endColumn": 55,
+                    "endOffset": 3452
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 5463,
+                        "endColumn": 55,
+                        "endOffset": 5514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 3457,
+                    "endColumn": 60,
+                    "endOffset": 3513
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 5344,
+                        "endColumn": 60,
+                        "endOffset": 5400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3518,
+                    "endColumn": 51,
+                    "endOffset": 3565
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 3819,
+                        "endColumn": 51,
+                        "endOffset": 3866
                     }
                 }
             },
@@ -336,20 +1279,94 @@
                 "to": {
                     "startLine": 69,
                     "startColumn": 4,
-                    "startOffset": 4698,
-                    "endLine": 73,
-                    "endColumn": 12,
-                    "endOffset": 5113
+                    "startOffset": 3570,
+                    "endColumn": 46,
+                    "endOffset": 3612
                 },
                 "from": {
-                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml",
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
                     "position": {
-                        "startLine": 66,
+                        "startLine": 76,
                         "startColumn": 4,
-                        "startOffset": 4561,
-                        "endLine": 70,
-                        "endColumn": 12,
-                        "endOffset": 4976
+                        "startOffset": 3278,
+                        "endColumn": 46,
+                        "endOffset": 3320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3617,
+                    "endColumn": 50,
+                    "endOffset": 3663
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 3325,
+                        "endColumn": 50,
+                        "endOffset": 3371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3668,
+                    "endColumn": 52,
+                    "endOffset": 3716
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 577,
+                        "endColumn": 52,
+                        "endOffset": 625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 3721,
+                    "endColumn": 62,
+                    "endOffset": 3779
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 630,
+                        "endColumn": 62,
+                        "endOffset": 688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 3784,
+                    "endColumn": 58,
+                    "endOffset": 3838
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 3760,
+                        "endColumn": 58,
+                        "endOffset": 3814
                     }
                 }
             },
@@ -357,20 +1374,94 @@
                 "to": {
                     "startLine": 74,
                     "startColumn": 4,
-                    "startOffset": 5118,
-                    "endLine": 78,
-                    "endColumn": 12,
-                    "endOffset": 5535
+                    "startOffset": 3843,
+                    "endColumn": 52,
+                    "endOffset": 3891
                 },
                 "from": {
-                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml",
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
                     "position": {
-                        "startLine": 71,
+                        "startLine": 83,
                         "startColumn": 4,
-                        "startOffset": 4981,
-                        "endLine": 75,
-                        "endColumn": 12,
-                        "endOffset": 5398
+                        "startOffset": 3649,
+                        "endColumn": 52,
+                        "endOffset": 3697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3896,
+                    "endColumn": 57,
+                    "endOffset": 3949
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 3702,
+                        "endColumn": 57,
+                        "endOffset": 3755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 3954,
+                    "endColumn": 71,
+                    "endOffset": 4021
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 4255,
+                        "endColumn": 71,
+                        "endOffset": 4322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 4026,
+                    "endColumn": 47,
+                    "endOffset": 4069
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 2818,
+                        "endColumn": 47,
+                        "endOffset": 2861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 4074,
+                    "endColumn": 58,
+                    "endOffset": 4128
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 3442,
+                        "endColumn": 58,
+                        "endOffset": 3496
                     }
                 }
             },
@@ -378,20 +1469,37 @@
                 "to": {
                     "startLine": 79,
                     "startColumn": 4,
-                    "startOffset": 5540,
-                    "endLine": 80,
-                    "endColumn": 12,
-                    "endOffset": 5642
+                    "startOffset": 4133,
+                    "endColumn": 58,
+                    "endOffset": 4187
                 },
                 "from": {
-                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml",
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
                     "position": {
-                        "startLine": 76,
+                        "startLine": 80,
                         "startColumn": 4,
-                        "startOffset": 5403,
-                        "endLine": 77,
-                        "endColumn": 12,
-                        "endOffset": 5505
+                        "startOffset": 3501,
+                        "endColumn": 58,
+                        "endOffset": 3555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 4192,
+                    "endColumn": 65,
+                    "endOffset": 4253
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 3376,
+                        "endColumn": 65,
+                        "endOffset": 3437
                     }
                 }
             },
@@ -399,20 +1507,37 @@
                 "to": {
                     "startLine": 81,
                     "startColumn": 4,
-                    "startOffset": 5647,
-                    "endLine": 82,
-                    "endColumn": 12,
-                    "endOffset": 5771
+                    "startOffset": 4258,
+                    "endColumn": 63,
+                    "endOffset": 4317
                 },
                 "from": {
-                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml",
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
                     "position": {
-                        "startLine": 78,
+                        "startLine": 98,
                         "startColumn": 4,
-                        "startOffset": 5510,
-                        "endLine": 79,
-                        "endColumn": 12,
-                        "endOffset": 5634
+                        "startOffset": 4567,
+                        "endColumn": 63,
+                        "endOffset": 4626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 4322,
+                    "endColumn": 63,
+                    "endOffset": 4381
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 4631,
+                        "endColumn": 63,
+                        "endOffset": 4690
                     }
                 }
             },
@@ -420,18 +1545,18 @@
                 "to": {
                     "startLine": 83,
                     "startColumn": 4,
-                    "startOffset": 5776,
-                    "endColumn": 70,
-                    "endOffset": 5842
+                    "startOffset": 4386,
+                    "endColumn": 63,
+                    "endOffset": 4445
                 },
                 "from": {
-                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml",
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
                     "position": {
-                        "startLine": 80,
+                        "startLine": 100,
                         "startColumn": 4,
-                        "startOffset": 5639,
-                        "endColumn": 70,
-                        "endOffset": 5705
+                        "startOffset": 4695,
+                        "endColumn": 63,
+                        "endOffset": 4754
                     }
                 }
             },
@@ -439,18 +1564,18 @@
                 "to": {
                     "startLine": 84,
                     "startColumn": 4,
-                    "startOffset": 5847,
-                    "endColumn": 82,
-                    "endOffset": 5925
+                    "startOffset": 4450,
+                    "endColumn": 63,
+                    "endOffset": 4509
                 },
                 "from": {
-                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml",
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
                     "position": {
-                        "startLine": 81,
+                        "startLine": 101,
                         "startColumn": 4,
-                        "startOffset": 5710,
-                        "endColumn": 82,
-                        "endOffset": 5788
+                        "startOffset": 4759,
+                        "endColumn": 63,
+                        "endOffset": 4818
                     }
                 }
             },
@@ -458,61 +1583,737 @@
                 "to": {
                     "startLine": 85,
                     "startColumn": 4,
-                    "startOffset": 5930,
-                    "endLine": 138,
-                    "endColumn": 12,
-                    "endOffset": 9950
+                    "startOffset": 4514,
+                    "endColumn": 63,
+                    "endOffset": 4573
                 },
                 "from": {
-                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml",
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
                     "position": {
-                        "startLine": 82,
+                        "startLine": 102,
                         "startColumn": 4,
-                        "startOffset": 5793,
-                        "endLine": 135,
-                        "endColumn": 12,
-                        "endOffset": 9813
+                        "startOffset": 4823,
+                        "endColumn": 63,
+                        "endOffset": 4882
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 139,
+                    "startLine": 86,
                     "startColumn": 4,
-                    "startOffset": 9955,
-                    "endLine": 193,
-                    "endColumn": 12,
-                    "endOffset": 14118
+                    "startOffset": 4578,
+                    "endColumn": 63,
+                    "endOffset": 4637
                 },
                 "from": {
-                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml",
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
                     "position": {
-                        "startLine": 136,
+                        "startLine": 103,
                         "startColumn": 4,
-                        "startOffset": 9818,
-                        "endLine": 190,
-                        "endColumn": 12,
-                        "endOffset": 13981
+                        "startOffset": 4887,
+                        "endColumn": 63,
+                        "endOffset": 4946
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 194,
+                    "startLine": 87,
                     "startColumn": 4,
-                    "startOffset": 14123,
+                    "startOffset": 4642,
+                    "endColumn": 63,
+                    "endOffset": 4701
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 4951,
+                        "endColumn": 63,
+                        "endOffset": 5010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 4706,
+                    "endColumn": 63,
+                    "endOffset": 4765
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 5015,
+                        "endColumn": 63,
+                        "endOffset": 5074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 4770,
+                    "endColumn": 46,
+                    "endOffset": 4812
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 5575,
+                        "endColumn": 46,
+                        "endOffset": 5617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 4817,
+                    "endColumn": 39,
+                    "endOffset": 4852
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1110,
+                        "endColumn": 39,
+                        "endOffset": 1145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4857,
+                    "endColumn": 43,
+                    "endOffset": 4896
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1150,
+                        "endColumn": 43,
+                        "endOffset": 1189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 4901,
+                    "endColumn": 43,
+                    "endOffset": 4940
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1194,
+                        "endColumn": 43,
+                        "endOffset": 1233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 4945,
+                    "endColumn": 43,
+                    "endOffset": 4984
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1238,
+                        "endColumn": 43,
+                        "endOffset": 1277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 4989,
+                    "endColumn": 43,
+                    "endOffset": 5028
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1282,
+                        "endColumn": 43,
+                        "endOffset": 1321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 5033,
+                    "endColumn": 43,
+                    "endOffset": 5072
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1326,
+                        "endColumn": 43,
+                        "endOffset": 1365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 5077,
+                    "endColumn": 43,
+                    "endOffset": 5116
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1370,
+                        "endColumn": 43,
+                        "endOffset": 1409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 5121,
+                    "endColumn": 43,
+                    "endOffset": 5160
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1414,
+                        "endColumn": 43,
+                        "endOffset": 1453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 5165,
+                    "endColumn": 43,
+                    "endOffset": 5204
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1458,
+                        "endColumn": 43,
+                        "endOffset": 1497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 5209,
+                    "endColumn": 43,
+                    "endOffset": 5248
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1502,
+                        "endColumn": 43,
+                        "endOffset": 1541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 5253,
+                    "endColumn": 43,
+                    "endOffset": 5292
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1546,
+                        "endColumn": 43,
+                        "endOffset": 1585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 5297,
+                    "endColumn": 43,
+                    "endOffset": 5336
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1590,
+                        "endColumn": 43,
+                        "endOffset": 1629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 5341,
+                    "endColumn": 43,
+                    "endOffset": 5380
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1634,
+                        "endColumn": 43,
+                        "endOffset": 1673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 5385,
+                    "endColumn": 40,
+                    "endOffset": 5421
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 488,
+                        "endColumn": 40,
+                        "endOffset": 524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 5426,
+                    "endColumn": 44,
+                    "endOffset": 5466
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 44,
+                        "endOffset": 438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 5471,
+                    "endColumn": 44,
+                    "endOffset": 5511
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 443,
+                        "endColumn": 44,
+                        "endOffset": 483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 5516,
+                    "endColumn": 47,
+                    "endOffset": 5559
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 529,
+                        "endColumn": 47,
+                        "endOffset": 572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 5564,
+                    "endLine": 109,
+                    "endColumn": 12,
+                    "endOffset": 5647
+                },
+                "from": {
+                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/values-v11/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 5652,
+                    "endLine": 115,
+                    "endColumn": 12,
+                    "endOffset": 6066
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 6071,
+                    "endLine": 121,
+                    "endColumn": 12,
+                    "endOffset": 6491
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 6496,
+                    "endLine": 127,
+                    "endColumn": 12,
+                    "endOffset": 6919
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 6924,
+                    "endLine": 133,
+                    "endColumn": 12,
+                    "endOffset": 7345
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 7350,
+                    "endLine": 139,
+                    "endColumn": 12,
+                    "endOffset": 7772
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 7777,
+                    "endLine": 145,
+                    "endColumn": 12,
+                    "endOffset": 8197
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 8202,
+                    "endColumn": 88,
+                    "endOffset": 8286
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 8291,
+                    "endLine": 150,
+                    "endColumn": 12,
+                    "endOffset": 8532
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 8537,
+                    "endLine": 154,
+                    "endColumn": 12,
+                    "endOffset": 8781
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 8786,
+                    "endColumn": 100,
+                    "endOffset": 8882
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 8887,
+                    "endLine": 159,
+                    "endColumn": 12,
+                    "endOffset": 9134
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 9139,
+                    "endLine": 163,
+                    "endColumn": 12,
+                    "endOffset": 9389
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 9394,
+                    "endColumn": 102,
+                    "endOffset": 9492
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 9497,
+                    "endLine": 168,
+                    "endColumn": 12,
+                    "endOffset": 9745
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 9750,
+                    "endLine": 173,
+                    "endColumn": 12,
+                    "endOffset": 10153
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 10158,
+                    "endLine": 178,
+                    "endColumn": 12,
+                    "endOffset": 10573
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 10578,
+                    "endLine": 183,
+                    "endColumn": 12,
+                    "endOffset": 10995
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 11000,
+                    "endLine": 185,
+                    "endColumn": 12,
+                    "endOffset": 11102
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 11107,
+                    "endLine": 187,
+                    "endColumn": 12,
+                    "endOffset": 11231
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 11236,
+                    "endColumn": 70,
+                    "endOffset": 11302
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 11307,
+                    "endColumn": 82,
+                    "endOffset": 11385
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 11390,
+                    "endLine": 243,
+                    "endColumn": 12,
+                    "endOffset": 15348
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 15353,
+                    "endLine": 298,
+                    "endColumn": 12,
+                    "endOffset": 19454
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 19459,
                     "endColumn": 90,
-                    "endOffset": 14209
+                    "endOffset": 19545
                 },
                 "from": {
-                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 191,
-                        "startColumn": 4,
-                        "startOffset": 13986,
-                        "endColumn": 90,
-                        "endOffset": 14072
-                    }
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v11/values-v11.xml"
                 }
             }
         ]

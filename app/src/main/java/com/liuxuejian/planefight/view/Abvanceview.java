@@ -339,7 +339,7 @@ public class Abvanceview extends SurfaceView implements SurfaceHolder.Callback {
                         & b1.y > (y - 40)) {
                     lifecount--;
                     if (shockcheck) {
-                        vibrator.vibrate(pattern, 1);
+//                        vibrator.vibrate(pattern, 1);
                     }
                     islife();
                 }
@@ -360,7 +360,7 @@ public class Abvanceview extends SurfaceView implements SurfaceHolder.Callback {
                     bossbullets.remove(bull);
                     lifecount--;
                     if (shockcheck) {
-                        vibrator.vibrate(pattern, 1);
+//                        vibrator.vibrate(pattern, 1);
                     }
                     islife();
                 }
@@ -380,7 +380,7 @@ public class Abvanceview extends SurfaceView implements SurfaceHolder.Callback {
                     ebullets.remove(bull);
                     lifecount--;
                     if (shockcheck) {
-                        vibrator.vibrate(pattern, 1);
+//                        vibrator.vibrate(pattern, 1);
                     }
                     islife();
                 }

@@ -12,8 +12,12 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
+import com.blankj.utilcode.constant.PermissionConstants;
+import com.blankj.utilcode.util.PermissionUtils;
 import com.liuxuejian.planefight.R;
 import com.liuxuejian.planefight.view.Abvanceview;
+
+import java.util.List;
 
 public class MainActivity extends BaseActivity {
     private boolean musiccheck, shockcheck;// 音效，震动 默认开启
@@ -24,6 +28,7 @@ public class MainActivity extends BaseActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         initFinishReceiver();
+        getPermission();
     }
 
     public void mybtn(View v) {
@@ -92,4 +97,26 @@ public class MainActivity extends BaseActivity {
         unregisterReceiver(mFinishReceiver);
         super.onDestroy();
     }
+
+    public void getPermission() {
+        PermissionUtils.permission(PermissionConstants.STORAGE)
+                .rationale(new PermissionUtils.OnRationaleListener() {
+                    @Override
+                    public void rationale(final ShouldRequest shouldRequest) {
+                        shouldRequest.again(true);
+                    }
+                })
+                .callback(new PermissionUtils.FullCallback() {
+                    @Override
+                    public void onGranted(List<String> permissionsGranted) {
+
+                    }
+
+                    @Override
+                    public void onDenied(List<String> permissionsDeniedForever, List<String> permissionsDenied) {
+
+                    }
+                }).request();
+    }
+
 }

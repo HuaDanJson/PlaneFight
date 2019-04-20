@@ -27,6 +27,7 @@ import android.view.SurfaceView;
 
 import com.liuxuejian.planefight.R;
 import com.liuxuejian.planefight.activity.GameOverActivity;
+import com.liuxuejian.planefight.activity.NewGameActivity;
 import com.liuxuejian.planefight.entity.Boss;
 import com.liuxuejian.planefight.entity.Bullet;
 import com.liuxuejian.planefight.entity.Duang;
@@ -81,6 +82,7 @@ public class EndlessView extends SurfaceView implements SurfaceHolder.Callback {
     private Handler handler1;
     private int intboss = 0;
     private int enysleeptime = 2000;// 刷新敌机速度
+    private NewGameActivity mNewGameActivity;
 
     public EndlessView(Context context) {
         super(context);
@@ -327,7 +329,7 @@ public class EndlessView extends SurfaceView implements SurfaceHolder.Callback {
                         & ebully > (y - 40)) {
                     ebullets.remove(bull);
                     lifecount--;
-                    vibrator.vibrate(pattern, 1);
+//                    vibrator.vibrate(pattern, 1);
                     islife();
                 }
             }
@@ -349,6 +351,7 @@ public class EndlessView extends SurfaceView implements SurfaceHolder.Callback {
             intent.putExtra("score", myscore);
             intent.putExtra("mode", MODE);
             getContext().startActivity(intent);
+            mNewGameActivity.finish();
         }
     }
 
@@ -390,9 +393,12 @@ public class EndlessView extends SurfaceView implements SurfaceHolder.Callback {
         ThreadRun = false;
     }
 
-    public void setVoiceSettingData(boolean musiccheck, boolean shockcheck) {
+
+    public void setVoiceSettingData(boolean musiccheck, boolean shockcheck, NewGameActivity newGameActivity) {
         this.musiccheck = musiccheck;
         this.shockcheck = shockcheck;
+        this.mNewGameActivity = newGameActivity;
     }
+
 
 }

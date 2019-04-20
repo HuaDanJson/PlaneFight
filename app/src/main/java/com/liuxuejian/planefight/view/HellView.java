@@ -28,6 +28,7 @@ import android.view.SurfaceView;
 
 import com.liuxuejian.planefight.R;
 import com.liuxuejian.planefight.activity.GameOverActivity;
+import com.liuxuejian.planefight.activity.NewGameActivity;
 import com.liuxuejian.planefight.entity.Boss;
 import com.liuxuejian.planefight.entity.Bullet;
 import com.liuxuejian.planefight.entity.Duang;
@@ -77,11 +78,11 @@ public class HellView extends SurfaceView implements SurfaceHolder.Callback {
 	private ArrayList<Bullet> bossbullets = new ArrayList<Bullet>();
 	private ArrayList<Bullet> bossbullets1 = new ArrayList<Bullet>();
 	private ArrayList<Bullet> bossbullets2 = new ArrayList<Bullet>();
-	private long[] pattern = { 100, 400 }; // 震动 停止 开启
 	private Boss b1;
 	private Handler handler1;
 	private int intboss = 0;
 	private int enysleeptime = 1500;// 刷新敌机速度
+	private NewGameActivity mNewGameActivity;
 
 
     public HellView(Context context) {
@@ -319,7 +320,6 @@ public class HellView extends SurfaceView implements SurfaceHolder.Callback {
 						& ebully > (y - 40)) {
 					ebullets.remove(bull);
 					lifecount--;
-					vibrator.vibrate(pattern, 1);
 					islife();
 				}
 			}
@@ -342,6 +342,7 @@ public class HellView extends SurfaceView implements SurfaceHolder.Callback {
 			intent.putExtra("score", myscore);
 			intent.putExtra("mode", MODE);
 			getContext().startActivity(intent);
+			mNewGameActivity.finish();
 		}
 	}
 
@@ -382,9 +383,12 @@ public class HellView extends SurfaceView implements SurfaceHolder.Callback {
 		ThreadRun = false;
 	}
 
-	public void setVoiceSettingData(boolean musiccheck, boolean shockcheck) {
+
+	public void setVoiceSettingData(boolean musiccheck, boolean shockcheck, NewGameActivity newGameActivity) {
 		this.musiccheck = musiccheck;
 		this.shockcheck = shockcheck;
+		this.mNewGameActivity = newGameActivity;
 	}
+
 
 }

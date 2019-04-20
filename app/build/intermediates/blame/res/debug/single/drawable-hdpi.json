@@ -68,6 +68,10 @@
         "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/background3.png"
     },
     {
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher_background.png",
+        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
         "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi/boom.png",
         "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/boom.png"
     },
