@@ -54,7 +54,7 @@ public class Abvanceview5 extends SurfaceView implements SurfaceHolder.Callback 
     private int bossx = 600, bossy = 50;// Boss坐标
     private boolean warning = false;// 警告Boss将出现
     private boolean flagboss = true;// Boss出现
-    private int bosslife = 20;
+    private int bosslife = 10;
     private int MODE = 1;// 模式标识码
     // 子弹
     private Bullet bullet;
@@ -122,7 +122,7 @@ public class Abvanceview5 extends SurfaceView implements SurfaceHolder.Callback 
                 .decodeResource(getResources(), R.drawable.enemy4);
         boss1 = BitmapFactory.decodeResource(getResources(), R.drawable.boss1);
         boss2 = BitmapFactory.decodeResource(getResources(), R.drawable.boss2);
-        boss3 = BitmapFactory.decodeResource(getResources(), R.drawable.boss3);
+        boss3 = BitmapFactory.decodeResource(getResources(), R.drawable.boss5);
         bossbullet1 = BitmapFactory.decodeResource(getResources(),
                 R.drawable.bossbullet1);
         duang = BitmapFactory.decodeResource(getResources(),
@@ -138,6 +138,8 @@ public class Abvanceview5 extends SurfaceView implements SurfaceHolder.Callback 
                 switch (msg.what) {
                     case 11111:
                         ThreadRun = false;
+                        break;
+                    default:
                         break;
                 }
             }
@@ -167,7 +169,6 @@ public class Abvanceview5 extends SurfaceView implements SurfaceHolder.Callback 
         timer = new Timer(true);
         timer.schedule(task, 200, 1000);
     }
-
 
     public void setVoiceSettingData(boolean musiccheck, boolean shockcheck) {
         this.musiccheck = musiccheck;
@@ -242,8 +243,7 @@ public class Abvanceview5 extends SurfaceView implements SurfaceHolder.Callback 
         paint.setTextSize(40);
         if (ThreadRun == true) {
             // 在canvas上绘制背景
-            rect1 = new Rect(0, 0, background1.getWidth(),
-                    background1.getHeight());
+            rect1 = new Rect(0, 0, background1.getWidth(), background1.getHeight());
             rect2 = new Rect(0, height1, 1200, 1824 + height1);
             rect3 = new Rect(0, height2, 1200, 1824 + height2);
             canvas.drawBitmap(background1, rect1, rect2, null);
@@ -283,8 +283,7 @@ public class Abvanceview5 extends SurfaceView implements SurfaceHolder.Callback 
                     }
                 }
                 if (time > 15) {
-                    if (bullx < (b1.x + 40) & bullx > (b1.x - 40)
-                            & bully < (b1.y + 40) & bully > (b1.y - 40)) {
+                    if (bullx < (b1.x + 40) & bullx > (b1.x - 40) & bully < (b1.y + 40) & bully > (b1.y - 40)) {
                         bosslife--;
                         bullets.remove(bull);
                         // Duang duan = new Duang(enemyx, enemyy, duang);
@@ -295,8 +294,7 @@ public class Abvanceview5 extends SurfaceView implements SurfaceHolder.Callback 
                             ThreadRun = false;
                             mThread = null;
                             timer.cancel();
-                            Intent intent = new Intent(getContext(),
-                                    GameOverActivity.class);
+                            Intent intent = new Intent(getContext(), GameOverActivity.class);
                             intent.putExtra("score", myscore);
                             getContext().startActivity(intent);
                         }
@@ -311,8 +309,7 @@ public class Abvanceview5 extends SurfaceView implements SurfaceHolder.Callback 
                 Enemy ene = enemys.get(j);
                 int i = new Random().nextInt(25);
                 if (i == 0) {
-                    Bitmap ebullet1 = BitmapFactory.decodeResource(
-                            this.getResources(), R.drawable.ebullet1);
+                    Bitmap ebullet1 = BitmapFactory.decodeResource(this.getResources(), R.drawable.ebullet1);
                     Bullet ebull = new Bullet(ene.x + 9, ene.y + 31, ebullet1);
                     ebullets.add(ebull);
                 }
@@ -390,8 +387,7 @@ public class Abvanceview5 extends SurfaceView implements SurfaceHolder.Callback 
                 } else {
                     ebullets.remove(bull);
                 }
-                if (ebullx < (x + 40) & ebullx > (x - 40) & ebully < (y + 40)
-                        & ebully > (y - 40)) {
+                if (ebullx < (x + 40) & ebullx > (x - 40) & ebully < (y + 40) & ebully > (y - 40)) {
                     ebullets.remove(bull);
                     lifecount--;
                     if (shockcheck) {
@@ -400,22 +396,11 @@ public class Abvanceview5 extends SurfaceView implements SurfaceHolder.Callback 
                     islife();
                 }
             }
-
-            // 绘制爆炸
-            // for (int m = 0; m < duangs.size(); m++) {
-            // Duang duan = duangs.get(m);
-            // if (duan.m < 32) {
-            // duan.draw(canvas);
-            // } else {
-            // duangs.remove(duan);
-            // }
-            // }
         }
         if (canvas != null) {
             // 解除锁定，并提交修改内容，更新屏幕
             sh.unlockCanvasAndPost(canvas);
         }
-
     }
 
     // 判断是否生命值为0，跳转

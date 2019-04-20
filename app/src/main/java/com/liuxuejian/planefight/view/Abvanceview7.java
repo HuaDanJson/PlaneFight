@@ -108,7 +108,7 @@ public class Abvanceview7 extends SurfaceView implements SurfaceHolder.Callback 
         background3 = BitmapFactory.decodeResource(getResources(),
                 R.drawable.background3);
         player = BitmapFactory.decodeResource(getResources(),
-                R.drawable.yellowplane);
+                R.drawable.player4);
         bullet1 = BitmapFactory.decodeResource(getResources(),
                 R.drawable.bullet1);
         enemy1 = BitmapFactory
@@ -177,7 +177,7 @@ public class Abvanceview7 extends SurfaceView implements SurfaceHolder.Callback 
                     break;
                 }
                 if (intboss == 0) {
-                    b1 = new Boss(bossx, bossy, boss3);
+                    b1 = new Boss(bossx, bossy, boss2);
                 }
                 int i = randow.nextInt(4);
                 if (i == 0) {
@@ -194,7 +194,7 @@ public class Abvanceview7 extends SurfaceView implements SurfaceHolder.Callback 
                     enemys.add(enemy);
                 }
                 try {
-                    Thread.sleep(2000);
+                    Thread.sleep(500);
                 } catch (InterruptedException e) {
                     // TODO Auto-generated catch block
                     e.printStackTrace();
@@ -228,7 +228,7 @@ public class Abvanceview7 extends SurfaceView implements SurfaceHolder.Callback 
                     e.printStackTrace();
                 }
                 ondraw();
-                shoot += 30;
+                shoot += 60;
             }
         }
     });
@@ -252,12 +252,12 @@ public class Abvanceview7 extends SurfaceView implements SurfaceHolder.Callback 
 //		Looper.loop();
         if (ThreadRun == true) {
             // 在canvas上绘制背景
-            rect1 = new Rect(0, 0, background1.getWidth(),
-                    background1.getHeight());
+            rect1 = new Rect(0, 0, background3.getWidth(),
+                    background3.getHeight());
             rect2 = new Rect(0, height1, 1200, 1824 + height1);
             rect3 = new Rect(0, height2, 1200, 1824 + height2);
-            canvas.drawBitmap(background1, rect1, rect2, null);
-            canvas.drawBitmap(background1, rect1, rect3, null);
+            canvas.drawBitmap(background3, rect1, rect2, null);
+            canvas.drawBitmap(background3, rect1, rect3, null);
             height1 += 10;
             height2 += 10;
             if (height1 >= 1824) {

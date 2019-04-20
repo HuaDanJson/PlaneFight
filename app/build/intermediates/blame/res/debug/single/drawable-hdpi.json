@@ -40,6 +40,10 @@
         "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/sorry_again.png"
     },
     {
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi/boss5.png",
+        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/boss5.png"
+    },
+    {
         "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi/blueplane.png",
         "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/blueplane.png"
     },
