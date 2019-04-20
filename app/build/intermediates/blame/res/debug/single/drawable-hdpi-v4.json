@@ -1,279 +1,39 @@
 [
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\enemy6.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\enemy6.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/enemy3.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/enemy3.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/check_ok.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/check_ok.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\start.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\start.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\boss2.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\boss2.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_bg.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\edit_bg.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/boss1.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/boss1.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\duang.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\duang.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\boss1.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\boss1.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/enemy4.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/enemy4.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\life.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\life.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\score.jpg",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\score.jpg"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rankinglist.jpg",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\rankinglist.jpg"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\my_checkbox.xml",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\my_checkbox.xml"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\boom.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\boom.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/duang.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/duang.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/score.jpg",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/score.jpg"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_ok.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/btn_ok.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background3.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\background3.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/enemy5.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/enemy5.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/yunceng.jpg",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/yunceng.jpg"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal.9.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/enemy2.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/enemy2.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_ok.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\btn_ok.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bossbullet1.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/bossbullet1.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/boss2.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/boss2.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\enemy5.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\enemy5.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\left_arrow.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\left_arrow.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_normal.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\check_normal.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\right_arow.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\right_arow.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selectmodebg.jpeg",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\selectmodebg.jpeg"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yellowplane.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\yellowplane.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/startbackground.jpg",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/startbackground.jpg"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sorry_again.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/sorry_again.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bg.jpg",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\main_bg.jpg"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gameoverbg.jpg",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/gameoverbg.jpg"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/check_press.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/check_press.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/player_name_et.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/player_name_et.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/redplane.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/redplane.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/enemy1.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/enemy1.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\enemy4.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\enemy4.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/boss3.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/boss3.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/background1.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/background1.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\redplane.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\redplane.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bullet1.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/bullet1.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/title.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/title.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/right_arow.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/right_arow.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/mode_btn.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/mode_btn.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bosslife.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/bosslife.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_normal.9.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_no.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/btn_no.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ebullet1.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\ebullet1.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/check_normal.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/check_normal.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background2.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\background2.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_no.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\btn_no.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/start.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/start.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/left_arrow.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/left_arrow.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/newranking.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/newranking.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/rankinglist.jpg",
         "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/rankinglist.jpg"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/boom.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/boom.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_ok.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\check_ok.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ranking_list_bg.jpeg",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\ranking_list_bg.jpeg"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/blueplane.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/blueplane.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\startbackground.jpg",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\startbackground.jpg"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gameset.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/gameset.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\enemy1.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\enemy1.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mode_btn.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\mode_btn.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
     },
     {
         "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/my_checkbox.xml",
@@ -281,142 +41,210 @@
     },
     {
         "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+        "source": "/Users/jason/.android/build-cache/2af12a69d5e60dd5b42d8fd7721b52d25ed4135c/output/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refurbishranking.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\refurbishranking.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\newranking.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\newranking.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ebullet1.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/ebullet1.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/score.jpg",
+        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/score.jpg"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_bg.xml",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\btn_bg.xml"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gameoverbg.jpg",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\gameoverbg.jpg"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yunceng.jpg",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\yunceng.jpg"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/yunceng.jpg",
+        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/yunceng.jpg"
+    },
+    {
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/jason/.android/build-cache/2af12a69d5e60dd5b42d8fd7721b52d25ed4135c/output/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_bg.xml",
         "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/btn_bg.xml"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/background3.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/background3.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bosslife.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\bosslife.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/selectmodebg.jpeg",
         "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/selectmodebg.jpeg"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/refurbishranking.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/refurbishranking.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\enemy2.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\enemy2.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/life.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/life.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bossbullet1.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\bossbullet1.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\title.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/yellowplane.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/yellowplane.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sorry_again.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\sorry_again.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bossbullet.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\bossbullet.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\enemy3.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\enemy3.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_press.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\check_press.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/startbackground.jpg",
+        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/startbackground.jpg"
+    },
+    {
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gameoverbg.jpg",
+        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/gameoverbg.jpg"
+    },
+    {
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/jason/.android/build-cache/2af12a69d5e60dd5b42d8fd7721b52d25ed4135c/output/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/main_bg.jpg",
         "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/main_bg.jpg"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blueplane.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\blueplane.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\player_name_et.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\player_name_et.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bossbullet.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/bossbullet.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background1.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\background1.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bullet1.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\bullet1.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gameset.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\gameset.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/jason/.android/build-cache/2af12a69d5e60dd5b42d8fd7721b52d25ed4135c/output/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ranking_list_bg.jpeg",
         "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/ranking_list_bg.jpeg"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/edit_bg.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/edit_bg.png"
-    },
-    {
         "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+        "source": "/Users/jason/.android/build-cache/2af12a69d5e60dd5b42d8fd7721b52d25ed4135c/output/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/background2.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/background2.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\boss3.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\drawable-hdpi\\boss3.png"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/enemy6.png",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/drawable-hdpi/enemy6.png"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png",
+        "source": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png"
     }
 ]

@@ -53,11 +53,15 @@ public class ModeSelectActivity extends BaseActivity implements OnClickListener 
         // TODO Auto-generated method stub
         switch (v.getId()) {
             case R.id.start:
-                Intent intent = new Intent(ModeSelectActivity.this, NewGameActivity.class);
-                intent.putExtra("musiccheck", musiccheck);
-                intent.putExtra("shockcheck", shockcheck);
-                intent.putExtra("mode", mode);
-                startActivity(intent);
+                if (mode == 1) {
+                    startActivity(new Intent(ModeSelectActivity.this, SelectGameActivity.class));
+                } else {
+                    Intent intent = new Intent(ModeSelectActivity.this, NewGameActivity.class);
+                    intent.putExtra("musiccheck", musiccheck);
+                    intent.putExtra("shockcheck", shockcheck);
+                    intent.putExtra("mode", mode);
+                    startActivity(intent);
+                }
                 break;
             case R.id.advance_btn:
                 mode_tv.setText("在这个模式里，你将面对强大的BOSS，运用你的智慧和勇气去击败它吧！");

@@ -1,13 +1,5 @@
 [
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\new_game.xml",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\menu\\new_game.xml"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\game_over.xml",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\menu\\game_over.xml"
-    },
-    {
         "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/menu/main.xml",
         "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/menu/main.xml"
     },
@@ -16,36 +8,16 @@
         "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/menu/score.xml"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\score.xml",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\menu\\score.xml"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mde_select.xml",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\menu\\mde_select.xml"
+        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/menu/mde_select.xml",
+        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/menu/mde_select.xml"
     },
     {
         "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/menu/game_over.xml",
         "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/menu/game_over.xml"
     },
     {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/menu/mde_select.xml",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/menu/mde_select.xml"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\menu\\main.xml"
-    },
-    {
         "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/menu/ranking_list.xml",
         "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/menu/ranking_list.xml"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\over2.xml",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\menu\\over2.xml"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ranking_list.xml",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\menu\\ranking_list.xml"
     },
     {
         "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/menu/game_set.xml",
@@ -54,10 +26,6 @@
     {
         "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/menu/over2.xml",
         "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/src/main/res/menu/over2.xml"
-    },
-    {
-        "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\game_set.xml",
-        "source": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/E:\\Androidproject\\FinalPlaneFight1\\app\\src\\main\\res\\menu\\game_set.xml"
     },
     {
         "merged": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/menu/new_game.xml",

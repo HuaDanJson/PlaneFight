@@ -8,10 +8,23 @@ package com.liuxuejian.planefight.view;
  * 
  */
 
-import java.util.ArrayList;
-import java.util.Random;
-import java.util.Timer;
-import java.util.TimerTask;
+import android.content.Context;
+import android.content.Intent;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.graphics.Canvas;
+import android.graphics.Color;
+import android.graphics.Paint;
+import android.graphics.Rect;
+import android.os.Build;
+import android.os.Handler;
+import android.os.Message;
+import android.os.Vibrator;
+import android.support.annotation.RequiresApi;
+import android.util.AttributeSet;
+import android.view.MotionEvent;
+import android.view.SurfaceHolder;
+import android.view.SurfaceView;
 
 import com.liuxuejian.planefight.R;
 import com.liuxuejian.planefight.activity.GameOverActivity;
@@ -20,23 +33,10 @@ import com.liuxuejian.planefight.entity.Bullet;
 import com.liuxuejian.planefight.entity.Duang;
 import com.liuxuejian.planefight.entity.Enemy;
 
-import android.content.Context;
-import android.content.Intent;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
-import android.graphics.Canvas;
-import android.graphics.Color;
-import android.graphics.Matrix;
-import android.graphics.Paint;
-import android.graphics.Rect;
-import android.os.AsyncTask;
-import android.os.Handler;
-import android.os.Message;
-import android.os.Vibrator;
-import android.util.Log;
-import android.view.MotionEvent;
-import android.view.SurfaceHolder;
-import android.view.SurfaceView;
+import java.util.ArrayList;
+import java.util.Random;
+import java.util.Timer;
+import java.util.TimerTask;
 
 public class HellView extends SurfaceView implements SurfaceHolder.Callback {
 	private Context mcontext;
@@ -83,60 +83,84 @@ public class HellView extends SurfaceView implements SurfaceHolder.Callback {
 	private int intboss = 0;
 	private int enysleeptime = 1500;// 刷新敌机速度
 
-	public HellView(Context mcontext, boolean musiccheck, boolean shockcheck) {
-		super(mcontext);
-		this.musiccheck = musiccheck;
-		this.shockcheck = shockcheck;
-		vibrator = (Vibrator) getContext().getSystemService(
-				Context.VIBRATOR_SERVICE);
-		background3 = BitmapFactory.decodeResource(getResources(),
-				R.drawable.background3);
-		player = BitmapFactory.decodeResource(getResources(),
-				R.drawable.redplane);
-		bullet1 = BitmapFactory.decodeResource(getResources(),
-				R.drawable.bullet1);
-		enemy1 = BitmapFactory
-				.decodeResource(getResources(), R.drawable.enemy1);
-		enemy2 = BitmapFactory
-				.decodeResource(getResources(), R.drawable.enemy2);
-		enemy3 = BitmapFactory
-				.decodeResource(getResources(), R.drawable.enemy3);
-		enemy4 = BitmapFactory
-				.decodeResource(getResources(), R.drawable.enemy4);
-		enemy5 = BitmapFactory
-				.decodeResource(getResources(), R.drawable.enemy5);
-		enemy6 = BitmapFactory
-				.decodeResource(getResources(), R.drawable.enemy6);
-		life = BitmapFactory.decodeResource(getResources(), R.drawable.life);
-		sh = this.getHolder();
-		sh.addCallback(this);
-		final Handler handler = new Handler() {
-			public void handleMessage(Message msg) {
-				switch (msg.what) {
-				case 1:
-					time++;
-					break;
-				}
-				super.handleMessage(msg);
-			}
-		};
 
-		TimerTask task = new TimerTask() {
-			public void run() {
-				Message message = new Message();
-				message.what = 1;
-				handler.sendMessage(message);
-			}
-		};
-		timer = new Timer(true);
-		timer.schedule(task, 50, 500);
-	}
+    public HellView(Context context) {
+        super(context);
+        init(context, null, 0, 0);
+    }
+
+    public HellView(Context context, AttributeSet attrs) {
+        super(context, attrs);
+        init(context, attrs, 0, 0);
+    }
+
+    public HellView(Context context, AttributeSet attrs, int defStyleAttr) {
+        super(context, attrs, defStyleAttr);
+        init(context, attrs, defStyleAttr, 0);
+    }
+
+    @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
+    public HellView(Context context, AttributeSet attrs, int defStyleAttr, int defStyleRes) {
+        super(context, attrs, defStyleAttr, defStyleRes);
+        init(context, attrs, defStyleAttr, defStyleRes);
+    }
+
+    private void init(Context context, AttributeSet attrs, int defStyleAttr, int defStyleRes) {
+        vibrator = (Vibrator) getContext().getSystemService(
+                Context.VIBRATOR_SERVICE);
+        background3 = BitmapFactory.decodeResource(getResources(),
+                R.drawable.background3);
+        player = BitmapFactory.decodeResource(getResources(),
+                R.drawable.redplane);
+        bullet1 = BitmapFactory.decodeResource(getResources(),
+                R.drawable.bullet1);
+        enemy1 = BitmapFactory
+                .decodeResource(getResources(), R.drawable.enemy1);
+        enemy2 = BitmapFactory
+                .decodeResource(getResources(), R.drawable.enemy2);
+        enemy3 = BitmapFactory
+                .decodeResource(getResources(), R.drawable.enemy3);
+        enemy4 = BitmapFactory
+                .decodeResource(getResources(), R.drawable.enemy4);
+        enemy5 = BitmapFactory
+                .decodeResource(getResources(), R.drawable.enemy5);
+        enemy6 = BitmapFactory
+                .decodeResource(getResources(), R.drawable.enemy6);
+        life = BitmapFactory.decodeResource(getResources(), R.drawable.life);
+        sh = this.getHolder();
+        sh.addCallback(this);
+        final Handler handler = new Handler() {
+            @Override
+            public void handleMessage(Message msg) {
+                switch (msg.what) {
+                    case 1:
+                        time++;
+                        break;
+                }
+                super.handleMessage(msg);
+            }
+        };
+
+        TimerTask task = new TimerTask() {
+            @Override
+            public void run() {
+                Message message = new Message();
+                message.what = 1;
+                handler.sendMessage(message);
+            }
+        };
+        timer = new Timer(true);
+        timer.schedule(task, 50, 500);
+    }
+
 
 	private Thread mThread = new Thread(new Runnable() {
-		public void run() {
+		@Override
+        public void run() {
 			// 生成不同位置敌人的线程
 			new Thread(new Runnable() {
-				public void run() {
+				@Override
+                public void run() {
 					Random randow = new Random();
 					while (ThreadRun) {
 						int i = randow.nextInt(6);
@@ -322,7 +346,8 @@ public class HellView extends SurfaceView implements SurfaceHolder.Callback {
 	}
 
 	// 触摸屏幕事件监听
-	public boolean onTouchEvent(MotionEvent event) {
+	@Override
+    public boolean onTouchEvent(MotionEvent event) {
 		switch (event.getAction()) {
 		case MotionEvent.ACTION_MOVE:
 			x = (int) event.getX();
@@ -333,7 +358,8 @@ public class HellView extends SurfaceView implements SurfaceHolder.Callback {
 	}
 
 	// SurfaceView创建时调用
-	public void surfaceCreated(SurfaceHolder holder) {
+	@Override
+    public void surfaceCreated(SurfaceHolder holder) {
 		ThreadRun = true;
 		mThread.start();
 		width = this.getWidth();
@@ -344,14 +370,21 @@ public class HellView extends SurfaceView implements SurfaceHolder.Callback {
 	}
 
 	// SurfaceView改变时调用
-	public void surfaceChanged(SurfaceHolder holder, int format, int width,
-			int height) {
+	@Override
+    public void surfaceChanged(SurfaceHolder holder, int format, int width,
+                               int height) {
 
 	}
 
 	// SurfaceView结束时调用
-	public void surfaceDestroyed(SurfaceHolder holder) {
+	@Override
+    public void surfaceDestroyed(SurfaceHolder holder) {
 		ThreadRun = false;
+	}
+
+	public void setVoiceSettingData(boolean musiccheck, boolean shockcheck) {
+		this.musiccheck = musiccheck;
+		this.shockcheck = shockcheck;
 	}
 
 }

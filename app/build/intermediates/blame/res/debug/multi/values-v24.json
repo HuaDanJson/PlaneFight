@@ -1,17 +1,55 @@
 [
     {
-        "outputFile": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/res/merged/debug/values-v24/values-v24.xml",
+        "outputFile": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 65,
-                    "endOffset": 116
+                    "endColumn": 156,
+                    "endOffset": 207
                 },
                 "from": {
-                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0/res/values-v24/values-v24.xml",
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v24/values-v24.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 156,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 212,
+                    "endColumn": 134,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/ce27910ffb8d9ee6f15fa9fd3b7de4d5b20248f9/output/res/values-v24/values-v24.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 134,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endColumn": 65,
+                    "endOffset": 408
+                },
+                "from": {
+                    "file": "/Users/jason/.android/build-cache/58d81662819269f5adc3dd03e529506bc1fabf30/output/res/values-v24/values-v24.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -23,14 +61,14 @@
             },
             {
                 "to": {
-                    "startLine": 3,
+                    "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 121,
+                    "startOffset": 413,
                     "endColumn": 60,
-                    "endOffset": 177
+                    "endOffset": 469
                 },
                 "from": {
-                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0/res/values-v24/values-v24.xml",
+                    "file": "/Users/jason/.android/build-cache/58d81662819269f5adc3dd03e529506bc1fabf30/output/res/values-v24/values-v24.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -42,14 +80,14 @@
             },
             {
                 "to": {
-                    "startLine": 4,
+                    "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 182,
+                    "startOffset": 474,
                     "endColumn": 65,
-                    "endOffset": 243
+                    "endOffset": 535
                 },
                 "from": {
-                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0/res/values-v24/values-v24.xml",
+                    "file": "/Users/jason/.android/build-cache/58d81662819269f5adc3dd03e529506bc1fabf30/output/res/values-v24/values-v24.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -61,14 +99,14 @@
             },
             {
                 "to": {
-                    "startLine": 5,
+                    "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 248,
+                    "startOffset": 540,
                     "endColumn": 66,
-                    "endOffset": 310
+                    "endOffset": 602
                 },
                 "from": {
-                    "file": "/Users/jason/Downloads/StudeoProject/Game2/FinalPlaneFight1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0/res/values-v24/values-v24.xml",
+                    "file": "/Users/jason/.android/build-cache/58d81662819269f5adc3dd03e529506bc1fabf30/output/res/values-v24/values-v24.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,

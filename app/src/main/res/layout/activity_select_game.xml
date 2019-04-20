@@ -1,0 +1,114 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@drawable/selectmodebg"
+              android:gravity="center_horizontal"
+              android:orientation="vertical"
+              tools:context="com.liuxuejian.planefight.activity.ModeSelectActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <View
+            android:id="@+id/v11"
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:background="@drawable/left_arrow"/>
+
+        <TextView
+            android:id="@+id/advance_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/mode_btn"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="闯关模式第一关"
+            android:textColor="#000000"
+            android:textSize="25dp"/>
+
+        <View
+            android:id="@+id/v12"
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:background="@drawable/right_arow"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <View
+            android:id="@+id/v21"
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:background="@drawable/left_arrow"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/endless_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/mode_btn"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="闯关模式第二关"
+            android:textColor="#000000"
+            android:textSize="25dp"/>
+
+        <View
+            android:id="@+id/v22"
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:background="@drawable/right_arow"
+            android:visibility="gone"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <View
+            android:id="@+id/v31"
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:background="@drawable/left_arrow"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/hell_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/mode_btn"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="闯关模式第三关"
+            android:textColor="#000000"
+            android:textSize="25dp"/>
+
+        <View
+            android:id="@+id/v32"
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:background="@drawable/right_arow"
+            android:visibility="gone"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/start_select_game"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/start"/>
+
+</LinearLayout>

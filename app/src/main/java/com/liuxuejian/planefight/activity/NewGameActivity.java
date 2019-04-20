@@ -7,64 +7,81 @@ package com.liuxuejian.planefight.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
+import android.view.View;
 
 import com.liuxuejian.planefight.R;
-import com.liuxuejian.planefight.view.Abvanceview;
+import com.liuxuejian.planefight.view.Abvanceview5;
+import com.liuxuejian.planefight.view.Abvanceview6;
+import com.liuxuejian.planefight.view.Abvanceview7;
 import com.liuxuejian.planefight.view.EndlessView;
 import com.liuxuejian.planefight.view.HellView;
 
 public class NewGameActivity extends BaseActivity {
-    private Abvanceview abvanceview;
-    private EndlessView endview;
-    private HellView hellview;
+    private EndlessView mEndlessView;
+    private HellView mHellView;
     private boolean musiccheck, shockcheck;//音效，震动 默认开启
+
+    private Abvanceview5 mAbvanceview5;
+    private Abvanceview6 mAbvanceview6;
+    private Abvanceview7 mAbvanceview7;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_play_game);
+        initView();
         Intent intent = getIntent();
         int mode = intent.getIntExtra("mode", 0);
         musiccheck = intent.getBooleanExtra("musiccheck", true);
         shockcheck = intent.getBooleanExtra("shockcheck", true);
-        abvanceview = new Abvanceview(this, musiccheck, shockcheck);
-        endview = new EndlessView(this, musiccheck, shockcheck);
-        hellview = new HellView(this, musiccheck, shockcheck);
         //根据模式选择View
         if (mode == 1) {
-            setContentView(abvanceview);
+//            setContentView(abvanceview);
         } else if (mode == 2) {
-            setContentView(endview);
+            mHellView.setVisibility(View.GONE);
+            mAbvanceview5.setVisibility(View.GONE);
+            mAbvanceview6.setVisibility(View.GONE);
+            mAbvanceview7.setVisibility(View.GONE);
+            mEndlessView.setVisibility(View.VISIBLE);
+            mEndlessView.setVoiceSettingData(musiccheck,shockcheck);
         } else if (mode == 3) {
-            setContentView(hellview);
+            mEndlessView.setVisibility(View.GONE);
+            mAbvanceview5.setVisibility(View.GONE);
+            mAbvanceview6.setVisibility(View.GONE);
+            mAbvanceview7.setVisibility(View.GONE);
+            mHellView.setVisibility(View.VISIBLE);
+            mHellView.setVoiceSettingData(musiccheck,shockcheck);
+        } else if (mode == 5) {
+            mEndlessView.setVisibility(View.GONE);
+            mAbvanceview6.setVisibility(View.GONE);
+            mAbvanceview7.setVisibility(View.GONE);
+            mHellView.setVisibility(View.GONE);
+            mAbvanceview5.setVisibility(View.VISIBLE);
+            mAbvanceview5.setVoiceSettingData(musiccheck,shockcheck);
+        } else if (mode == 6) {
+            mEndlessView.setVisibility(View.GONE);
+            mAbvanceview7.setVisibility(View.GONE);
+            mHellView.setVisibility(View.GONE);
+            mAbvanceview5.setVisibility(View.GONE);
+            mAbvanceview6.setVisibility(View.VISIBLE);
+            mAbvanceview6.setVoiceSettingData(musiccheck,shockcheck);
+        } else if (mode == 7) {
+            mEndlessView.setVisibility(View.GONE);
+            mHellView.setVisibility(View.GONE);
+            mAbvanceview5.setVisibility(View.GONE);
+            mAbvanceview6.setVisibility(View.GONE);
+            mAbvanceview7.setVisibility(View.VISIBLE);
+            mAbvanceview7.setVoiceSettingData(musiccheck,shockcheck);
         }
-        initFinishReceiver();
     }
 
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.new_game, menu);
-        return true;
+    public void initView() {
+        mEndlessView = findViewById(R.id.end_less_view);
+        mHellView = findViewById(R.id.hell_view);
+        mAbvanceview5 = findViewById(R.id.abv5);
+        mAbvanceview6 = findViewById(R.id.abv6);
+        mAbvanceview7 = findViewById(R.id.abv7);
     }
 
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
-        if (id == R.id.action_settings) {
-            return true;
-        }
-        return super.onOptionsItemSelected(item);
-    }
 
-    @Override
-    protected void onDestroy() {
-        // TODO Auto-generated method stub
-        unregisterReceiver(mFinishReceiver);
-        super.onDestroy();
-    }
 }
